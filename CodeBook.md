@@ -40,7 +40,8 @@ The mean() and std() values of the following 33 measurements are included in the
 - fBodyGyroMag (1)
 - fBodyGyroJerkMag (1)
 
-See original data source for full detail and definition of each measurement. 
+See original data source for full detail and definition of each measurement.
+As in the original data, the values of the variables are normalized and bounded within [-1,1].
 
 ### Data Cleaning & Transformation
 The tidy dataset is a subset and summary of the original HAR dataset, using the following process:
