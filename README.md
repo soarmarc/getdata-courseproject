@@ -2,6 +2,11 @@
 Submission for Course Project in Coursera Getting &amp; Cleaning Data course
 
 ### Contents:
+* run_analysis.R
+* CodeBook.md
+* README.md
+
+### Description of Script (run_analysis.R)
 This repo contains the script 'run_analysis.R' that does the following:
 
 * Merges the training and the test UCI HAR Datasets provided to create one data set.
