@@ -15,5 +15,7 @@ This repo contains the script 'run_analysis.R' that does the following:
 * Creates a summary table with the average of each variable for each activity and subject combination
 * Writes summary table to tidyData_avgByActivityAndSubject.txt"
 
+See CodeBook.md for details about the summary table (tidy data) output.
+
 ### Prerequisites:
 * UCI HAR Dataset folder must be in working directory before running script
